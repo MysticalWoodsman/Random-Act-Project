@@ -21,5 +21,10 @@ This application is to be deployed publically free of charge.  The application w
     androids.
 
 -- When --
+
 ASAP
 
+-- Who --
+
+Id like to recruit developers to a core team of no more than three (3) programmers.
+Team members should have experience with both phone apps and Venmo integration.
