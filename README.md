@@ -1,6 +1,9 @@
 # Random-Act-Project
 Peer-to-peer phone application that facilitates community kindness.
 
+If you would like to apply to the core team, send email to:
+mysticalwoodsman@gmail.com
+
 -- What is it? --
 
 This application is to be deployed publically free of charge.  The application will integrate with Venmo to transfer small dollar amounts to individuals who are in need.  To accomplish this objective, the following event flow will take place:
@@ -28,3 +31,6 @@ ASAP
 
 Id like to recruit developers to a core team of no more than three (3) programmers.
 Team members should have experience with both phone apps and Venmo integration.
+
+If you would like to apply to the core team, send email to:
+mysticalwoodsman@gmail.com
