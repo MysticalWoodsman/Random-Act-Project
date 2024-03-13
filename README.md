@@ -6,7 +6,7 @@ mysticalwoodsman@gmail.com
 
 -- What is it? --
 
-This application is to be deployed publically free of charge.  The application will integrate with Venmo to transfer small dollar amounts to individuals who are in need.  To accomplish this objective, the following event flow will take place:
+This application is to be deployed publicly free of charge.  The application will integrate with Venmo to transfer small dollar amounts to individuals who are in need.  To accomplish this objective, the following event flow will take place:
 
 1.  An individual will find themselves in need of a small dollar amount ($5 to $20)
 2.  The anonymous request will be 'broadcast' via a Bluetooth* signal for that specific proximity.
