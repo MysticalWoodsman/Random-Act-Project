@@ -16,6 +16,11 @@ This application is to be deployed publically free of charge.  The application w
 6.  A 'hot-spot' map is updated to show particularly active areas.
 7.  Payments are accomplished with Venmo to start, with other options in later versions.
 
+-- How? --
+1.  Upgrade local hardware to support Visual Studios for phone app development.  ($1000)
+2.  Purchase required API keys ($500)
+3.  Subscribe to Devin AI development environment ($300)
+
 -- Why? --
 
 1.  Because it's good to be good.
